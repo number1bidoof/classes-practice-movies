@@ -1,0 +1,8 @@
+Create a class named Movie with private properties for title, cast, description and rating with appropriate data types: 20 points
+Create methods for updateRating() and displayInfo(): 20 points
+Instantiate new movie object: 5 points
+Display properties of the movie: 5 points
+Create an array called "movies" and add the movie to the array: 10 points
+Create updateMovieRating: 20 points
+Append the updated information of the movie to the to the "movie-info" div using innerHTML: 10 points
+Code organization, readability, and adherence to best practices: 10 points
