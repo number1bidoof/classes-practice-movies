@@ -18,6 +18,8 @@ class Movie {
 }
 const movie = new Movie
 movie.DisplayInfo()
+moveList = [movie]
+console.log(moveList)
 function updateMovieRating(){
   movie.UpdateRatings(9.9)
   moviediv.innerHTML += `<br><br><strong>Updated Rating</strong><br>`
